@@ -109,7 +109,7 @@ header a:focus {
 }
 
 header button {
-    display: block;
+    /* display: block; */
     color: #8e7cc3;
     padding: 10px;
     border-style: none;
